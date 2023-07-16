@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**coltrox/coltrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá eu sou Pedro Coltro 🤙
 
-Here are some ideas to get you started:
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/coltroxd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Coltrox GitHub stats](https://github-readme-stats.vercel.app/api?username=coltrox&show_icons=true&theme=tokyonight)
+
+
+### Tecnologias que eu utilizo no dia a dia 
+
+
+<div style="display: inline_block"><br/>
+<img align= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align= "center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align= "center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img align= "center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div><br/>
+
+ Ainda estou em busca de novos conhecimentos e cada vez me apaixonar mais nesse mundo... 
+
+ meu email: pedro.costacoltro@gmail.com 🤙🏻
