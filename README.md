@@ -5,7 +5,7 @@
 
 
 
-![Coltrox GitHub stats](https://github-readme-stats.vercel.app/api?username=coltrox&show_icons=true&theme=tokyonight)
+![Coltrox GitHub stats](https://github-readme-stats.vercel.app/api?username=coltrox&show_icons=true&theme=tokyonight)<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ad70590b3203bdfa4e8635dd2f7c6e7a.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br />
 
 
 ### Tecnologias que eu utilizo no dia a dia 
@@ -20,4 +20,4 @@
 
  Ainda estou em busca de novos conhecimentos e cada vez me apaixonar mais nesse mundo... 
 
- meu email: pedro.costacoltro@gmail.com 🤙🏻
+ meu email: pedro.costacoltro@gmail.com 🤙🏻 
