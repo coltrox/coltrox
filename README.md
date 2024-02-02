@@ -1,7 +1,4 @@
 
-### Olá eu sou Pedro Coltro 🤙
-
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&l
 
 ### Tecnologias que eu utilizo no dia a dia 
 
