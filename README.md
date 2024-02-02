@@ -1,12 +1,7 @@
 
 ### Olá eu sou Pedro Coltro 🤙
 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/coltroxd)
-
-
-
-![Coltrox GitHub stats](https://github-readme-stats.vercel.app/api?username=coltrox&show_icons=true&theme=tokyonight)<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ad70590b3203bdfa4e8635dd2f7c6e7a.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br />
-
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&l
 
 ### Tecnologias que eu utilizo no dia a dia 
 
