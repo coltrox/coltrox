@@ -76,7 +76,6 @@ My name is Pedro Henrique Soares da Costa Coltro, I am 17 years old, and I am fr
 
 <br/>
 <br/>
-<br/>
 
 ### 📊 Statistics
 
