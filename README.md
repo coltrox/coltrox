@@ -16,19 +16,19 @@ My name is Pedro Henrique Soares da Costa Coltro, I am 17 years old, and I am fr
 />
 
 <img align = "left"
-     alt = "HTML"
-     title = "HTML"
+     alt = "CSS3"
+     title = "CSS3"
      width = "30px"
      style = "padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
 <img align = "left"
-     alt = "HTML"
-     title = "HTML"
+     alt = "JS"
+     title = "JS"
      width = "30px"
      style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+     src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)" 
 />
 
 <img align = "left"
