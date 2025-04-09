@@ -46,3 +46,27 @@ My name is Pedro Henrique Soares da Costa Coltro, I am 17 years old, and I am fr
      style = "padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+
+<img align = "left"
+     alt = "REACT"
+     title = "REACT"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img align = "left"
+     alt = "GIT"
+     title = "GIT"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img align = "left"
+     alt = "PYTHON"
+     title = "PYTHON"
+     width = "30px"
+     style = "padding-right: 10px;"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
