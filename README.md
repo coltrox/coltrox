@@ -70,3 +70,9 @@ My name is Pedro Henrique Soares da Costa Coltro, I am 17 years old, and I am fr
      style = "padding-right: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coltrox&show_icons=true)
+
