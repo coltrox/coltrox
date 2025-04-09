@@ -32,17 +32,17 @@ My name is Pedro Henrique Soares da Costa Coltro, I am 17 years old, and I am fr
 />
 
 <img align = "left"
-     alt = "HTML"
-     title = "HTML"
+     alt = "JAVA"
+     title = "JAVA"
      width = "30px"
      style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 
 <img align = "left"
-     alt = "HTML"
-     title = "HTML"
+     alt = "C"
+     title = "C"
      width = "30px"
      style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
