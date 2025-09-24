@@ -1,87 +1,70 @@
-## 👨🏻‍💻 Pedro Coltro
+# 👨🏻‍💻 Pedro Coltro  
 
-**`FULL STACK DEV`**
-<br/>
+**`Full Stack Dev em Formação`**
 
-My name is Pedro Henrique Soares da Costa Coltro, I am 17 years old, and I am from Campinas. Currently, I am studying Systems Development at Etec Bento Quirino. I really enjoy technology, and I share here some of my projects and work done during the course.
-<br/>
+Olá, eu sou **Pedro Henrique Soares da Costa Coltro**, tenho **17 anos** e sou de **Campinas (SP)**.  
+Atualmente estou no segundo ano de **Desenvolvimento de Sistemas** na **Etec Bento Quirino** e utilizo este espaço para compartilhar meus **projetos**, meus estudos e minha jornada no mundo da programação.  
+Sou apaixonado por tecnologia e adoro explorar diferentes áreas do desenvolvimento.
 
 ---
-### 🤖 Languages and Technologies
 
-<img align = "left"
-     alt = "HTML"
-     title = "HTML"
-     width = "30px"
-     style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+## 🧩 Sobre Mim
+- 🎯 **Objetivo**: Me tornar um **Engenheiro de Computação** e ampliar meus conhecimentos com **pós-graduações** e **mestrados**   
+- 🖥️ **Interesses**: Segurança da Informação, **Cyber Security**, **Ethical Hacking**, testes de penetração (pentest) e defesa cibernética.
 
-<img align = "left"
-     alt = "CSS"
-     title = "CSS"
-     width = "30px"
-     style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+---
 
-<img align = "left"
-     alt = "JAVASCRIPT"
-     title = "JAVASCRIPT"
-     width = "30px"
-     style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+## 🚀 Tecnologias:
 
-<img align = "left"
-     alt = "JAVA"
-     title = "JAVA"
-     width = "30px"
-     style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
+<p align="left">
+  <img alt="HTML5" title="HTML5" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" title="CSS3" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="Git" title="Git" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="Figma" title="Figma" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+</p>
 
-<img align = "left"
-     alt = "C"
-     title = "C"
-     width = "30px"
-     style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+---
 
-<img align = "left"
-     alt = "REACT"
-     title = "REACT"
-     width = "30px"
-     style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+## 🚀 Atualmente Estudando
 
-<img align = "left"
-     alt = "GIT"
-     title = "GIT"
-     width = "30px"
-     style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<p align="left">
+  <img alt="JavaScript" title="JavaScript" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Java" title="Java" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+  <img alt="C" title="C" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+  <img alt="React" title="React" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="Python" title="Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</p>
 
-<img align = "left"
-     alt = "PYTHON"
-     title = "PYTHON"
-     width = "30px"
-     style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<img align = "left"
-     alt = "FIGMA"
-     title = "FIGMA"
-     width = "30px"
-     style = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
+## 🛠️ Ferramentas e Ambiente
+- **IDE/Editor**: VS Code.
+- **Controle de Versão**: Git & GitHub para versionamento e colaboração.  
+- **Design & Protótipos**: Figma para criar interfaces limpas e modernas.  
+- **Bancos de Dados**: MySQL, MariaDB, SQLite e MongoDB em projetos e estudos.
 
-<br/>
-<br/>
+---
 
+## 📂 Projetos em Destaque
 
+- **Landing Pages Responsivas** – Layouts modernos com HTML, CSS e JS.  
+- **Snake Moderno 🐍** – Jogo clássico recriado em HTML, CSS e JS, com interface limpa e jogabilidade desafiadora.  
+- **App de Navegação de Telas 📱** – React Native, login, menu lateral, persistência de sessão e listas dinâmicas.  
+- **Calculadora de IMC 📱** – App mobile em React Native, calcula IMC e mostra classificação e faixa de peso ideal.  
+- **Projeto Educacional Multidisciplinar (Java)** – Utiliza herança, polimorfismo, encapsulamento e modularização.  
+
+---
+
+## 📫 Conecte-se Comigo
+<p align="left">
+  <a href="mailto:pedrocoltro.dev@gmail.com">
+    <img alt="Email" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+  </a>
+  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/pedro-henrique-soares-da-costa-coltro-497833386?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfZP2IqCuSamtXi6Eqwue9Q%3D%3D)" target="_blank">
+    <img alt="LinkedIn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+</p>
+
+---
+
+> “Com cada linha de código, transformo ideias em soluções que podem mudar realidades.”
