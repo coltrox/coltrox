@@ -60,7 +60,7 @@ Sou apaixonado por tecnologia e adoro explorar diferentes áreas do desenvolvime
   <a href="mailto:pedrocoltro.dev@gmail.com">
     <img alt="Email" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
   </a>
-  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/pedro-henrique-soares-da-costa-coltro-497833386?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfZP2IqCuSamtXi6Eqwue9Q%3D%3D)" target="_blank">
+  <a href="www.linkedin.com/in/pedro-henrique-soares-da-costa-coltro-497833386" target="_blank">
     <img alt="LinkedIn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
 </p>
