@@ -30,7 +30,7 @@ Atualmente curso **Desenvolvimento de Sistemas** na **Etec Bento Quirino**. Util
   <img alt="Figma" title="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </p>
 
-- **Front-end**: React, React Native.
+- **Front-end**: React, TypeScript, React Native.
 - **Back-end**: Node.js, Supabase.
 - **Bancos de Dados**: SQL (MySQL, MariaDB, SQLite).
 - **Ambiente**: VS Code, Git/GitHub.
@@ -51,11 +51,11 @@ Atualmente curso **Desenvolvimento de Sistemas** na **Etec Bento Quirino**. Util
 <p align="left">
   <a href="mailto:pedrocoltro.dev@gmail.com">
     <img alt="Email" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
-  </a>
+  </a> 
+
+  
   <a href="https://www.linkedin.com/in/pedro-henrique-soares-da-costa-coltro-497833386/" target="_blank">
     <img alt="LinkedIn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
-  <a href="https://github.com/pedrocoltro" target="_blank">
-    <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  </a>
+  
 </p>
