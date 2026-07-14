@@ -56,7 +56,4 @@ Atualmente curso **Desenvolvimento de Sistemas** na **Etec Bento Quirino**. Util
   <a href="https://www.linkedin.com/in/pedro-henrique-soares-da-costa-coltro-497833386/" target="_blank">
     <img alt="LinkedIn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
-  <a href="https://github.com/coltrox" target="_blank">
-    <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  </a>
 </p>
