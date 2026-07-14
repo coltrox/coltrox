@@ -16,7 +16,24 @@ Atualmente curso **Desenvolvimento de Sistemas** na **Etec Bento Quirino**. Util
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="React Native" title="React Native" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Supabase" title="Supabase" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="Figma" title="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+</p>
+
+- **Front-end**: React, React Native.
+- **Back-end**: Node.js, Supabase.
+- **Bancos de Dados**: SQL (MySQL, MariaDB, SQLite).
+- **Ambiente**: VS Code, Git/GitHub.
 
 ---
 
@@ -30,3 +47,15 @@ Atualmente curso **Desenvolvimento de Sistemas** na **Etec Bento Quirino**. Util
 ---
 
 ## 📫 Conecte-se Comigo
+
+<p align="left">
+  <a href="mailto:pedrocoltro.dev@gmail.com">
+    <img alt="Email" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-soares-da-costa-coltro-497833386/" target="_blank">
+    <img alt="LinkedIn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+  <a href="https://github.com/pedrocoltro" target="_blank">
+    <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  </a>
+</p>
